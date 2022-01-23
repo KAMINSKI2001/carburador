@@ -1,0 +1,41 @@
+
+
+#TT {color: red; /*exemplo de cor com o nome*/
+     text-align: center;
+	
+}
+
+
+/*tenente*/
+.tn{color: #ff00d0;  /*exemplo de cor hexadecimal*/ 
+    text-align: center;
+}
+
+
+/*soldado*/ 
+.sd{ color: rgba(89, 0, 255, 1);
+	text-align: center;
+
+}
+
+
+/*tião*/
+.ti { color: green ;
+	text-align: center;
+
+}
+
+
+/*conclusão*/
+#CN {
+	color: blue; 
+	text-align: center;
+
+}
+
+#cf {
+	color: rgba(0, 213, 255, 1);
+	text-align: center;
+}   
+
+/*classes e ID a hastag simboliza uma classe e o ponto simboliza uma ID a classe so pode constar em um unico local a ID pode constar em varios */
